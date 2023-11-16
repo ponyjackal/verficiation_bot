@@ -8,7 +8,7 @@ Competition.
 To get started, clone this repository with your project name:
 
 ```
-git clone https://github.com/MayorMonty/vexbot
+git clone https://github.com/ponyjackal/vexbot
 ```
 
 ```
